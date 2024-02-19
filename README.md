@@ -1,2 +1,2 @@
-Here I solve exercises from Karpov Cources
-link to course: https://karpov.courses/
+Here I solve exercises from Karpov Courses
+link to the courses: https://karpov.courses/
